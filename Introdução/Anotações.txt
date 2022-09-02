@@ -34,6 +34,8 @@ git remote -v -> mostra para qual repositório remoto seu repositório local est
 
 git status -> traz informações sobre o stage do arquivo
 
-git push origin master-> empurra seus arquivos para o remositório criado no git 
+git push origin master-> empurra seus arquivos para o remositório criado no git Everything up-to-date
+
+git pull -> puxar o conteúdo atualizado do git caso haja conflito 
 
 ------------------------------------------------------------------------
