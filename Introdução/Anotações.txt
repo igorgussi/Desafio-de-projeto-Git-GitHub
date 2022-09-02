@@ -1,0 +1,39 @@
+Comandos CMD Windowns
+
+cd -> entra em uma pasta/diretório
+dir -> Lista as pastas 
+cd .. -> Volta para pagina anterior 
+mkdir -> cria uma pasta 
+rmdir -> exclui uma pasta 
+del -> exclui um arquivo
+mv ./ -> move arquivos de uma pasta para outras  
+echo -> printa uma mensagem 
+echo > -> cria um arquivo
+ls -> lista arquivos
+ls -a -> lista arquivos ocultos
+
+-------------Comandos no GIT -------------------------------------------
+
+git clone (link do repositório) -> clona um repositório para sua máquina
+
+git init -> inicia o repositório 
+git add * -> adiciona o arquivo para o stage para ser comittado
+git commit -m "Descrição do commit" -> commita o arquivo 
+
+--------------Configurar o GIT ------------------------------------  
+
+git config --global user.email igorgussi2017@gmail.com -> configurar o git e colocar um email autor 
+
+git config --global user.name igorgussi
+
+-------------------------------------------------------------------------------------------------
+
+git remote add origin https://github.com/igorgussi/Livro-Receitas.git  --> mostra o caminho para os arquivos chegarem no github
+
+git remote -v -> mostra para qual repositório remoto seu repositório local esta apontado
+
+git status -> traz informações sobre o stage do arquivo
+
+git push origin master-> empurra seus arquivos para o remositório criado no git 
+
+------------------------------------------------------------------------
